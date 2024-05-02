@@ -1,1 +1,2 @@
-test git practica
+Este es el primer cambio.
+Ya hice mi primer git push, ahora voy por ti git pull!
